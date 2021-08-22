@@ -1,0 +1,13 @@
+D:\Source\Repos\Exercises37-38\Exercise 38\obj\Debug\netcoreapp3.1\Exercise 38.csproj.AssemblyReference.cache
+D:\Source\Repos\Exercises37-38\Exercise 38\obj\Debug\netcoreapp3.1\Exercise 38.AssemblyInfoInputs.cache
+D:\Source\Repos\Exercises37-38\Exercise 38\obj\Debug\netcoreapp3.1\Exercise 38.AssemblyInfo.cs
+D:\Source\Repos\Exercises37-38\Exercise 38\obj\Debug\netcoreapp3.1\Exercise 38.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Exercises37-38\Exercise 38\bin\Debug\netcoreapp3.1\Exercise 38.exe
+D:\Source\Repos\Exercises37-38\Exercise 38\bin\Debug\netcoreapp3.1\Exercise 38.deps.json
+D:\Source\Repos\Exercises37-38\Exercise 38\bin\Debug\netcoreapp3.1\Exercise 38.runtimeconfig.json
+D:\Source\Repos\Exercises37-38\Exercise 38\bin\Debug\netcoreapp3.1\Exercise 38.runtimeconfig.dev.json
+D:\Source\Repos\Exercises37-38\Exercise 38\bin\Debug\netcoreapp3.1\Exercise 38.dll
+D:\Source\Repos\Exercises37-38\Exercise 38\bin\Debug\netcoreapp3.1\Exercise 38.pdb
+D:\Source\Repos\Exercises37-38\Exercise 38\obj\Debug\netcoreapp3.1\Exercise 38.dll
+D:\Source\Repos\Exercises37-38\Exercise 38\obj\Debug\netcoreapp3.1\Exercise 38.pdb
+D:\Source\Repos\Exercises37-38\Exercise 38\obj\Debug\netcoreapp3.1\Exercise 38.genruntimeconfig.cache
